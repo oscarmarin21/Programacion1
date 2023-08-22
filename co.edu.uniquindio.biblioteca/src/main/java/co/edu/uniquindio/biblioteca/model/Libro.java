@@ -1,4 +1,4 @@
-package model;
+package co.edu.uniquindio.biblioteca.model;
 
 public class Libro {
     private String nombre;
